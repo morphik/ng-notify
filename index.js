@@ -1,3 +1,3 @@
-require('./src/ng-notify.css');
-require('./src/ng-notify.js');
+require('./src/scripts/ng-notify.css');
+require('./src/styles/ng-notify.js');
 module.exports = 'uiSwitch';
